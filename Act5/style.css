@@ -1,0 +1,13 @@
+.image {
+    text-align: center;
+    padding: 25px 10px;
+  }
+
+  body {
+    background-image: url(img/istockphoto-844423544-170667a.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1800px;
+    background-attachment: fixed;
+    background-size: cover;
+}
